@@ -4,7 +4,7 @@
   "description": "A Express Code To Finding Which Device User Is Using Via URL",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "author": "Wizqdev",
   "license": "MIT",
